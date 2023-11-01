@@ -16,4 +16,6 @@ function showResult(result:number):void {
     } else {
         console.log(`The result is ${result} and it's odd!`);
     }
+    
 }
+showResult(10)
